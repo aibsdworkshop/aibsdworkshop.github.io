@@ -1174,7 +1174,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 # supporters Section
 --------------------------------------------------------------*/
 
-#VASBSD_series {
+#AIBSD_series {
   padding: 60px 0; 
 
   /* background: url("../img/venue1.jpg");
@@ -1185,13 +1185,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 60px 0 40px 0; */
 }
 
-#VASBSD_series .supporters-wrap {
+#AIBSD_series .supporters-wrap {
   border-top: 1px solid #e0e5fa;
   border-left: 1px solid #e0e5fa;
   margin-bottom: 30px;
 }
 
-#VASBSD_series .supporter-logo {
+#AIBSD_series .supporter-logo {
   padding: 30px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1205,17 +1205,17 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-right: 1px solid #e0e5fa;
   border-bottom: 1px solid #e0e5fa;
   overflow: hidden;
-  /* background: rgba(255, 255, 255, 0.5); */
-  background: rgba(127, 127, 127, 0.5);
+  background: rgba(255, 255, 255, 1);
+  /*background: rgba(127, 127, 127, 0.5); */
   height: 160px;
 }
 
-#VASBSD_series .supporter-logo:hover img {
+#AIBSD_series .supporter-logo:hover img {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
 }
 
-#VASBSD_series img {
+#AIBSD_series img {
   transition: all 0.4s ease-in-out;
 }
 
